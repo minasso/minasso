@@ -1,6 +1,6 @@
 ### About Me
 
-I am on a journey to become a Data Scientist. I am a current student enrolled in the Data Science Masters program at UT Austin. So far, I've taken classes in Probability and Statistics and Data Visualization. I'm currently taking classes in Regression and Data Structures and Algorithms. My extra curricular interests include pool (billiards), cooking, and martial arts.
+I am on a journey to become a Data Scientist. I am studying in the Data Science Masters program at UT Austin. So far, I've taken classes in Probability and Statistics and Data Visualization. I'm currently taking classes in Regression and Data Structures and Algorithms. My extra curricular interests include pool (billiards), cooking, and martial arts.
 
 <!--
 **minasso/minasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
