@@ -1,6 +1,6 @@
 ### About Me
 
-I am on a journey towards becoming a Data Scientist! I'm currently enrolled MSDS program at UT Austin. I've completed classes in Probability and Statistics, Data Visualization, Regression, Data Structures and Algorithms, Machine Learning, and Data Science for Health Discovery and Innovation. My extra curricular interests include pool (billiards), cooking, and martial arts.
+I am on a journey towards becoming a Data Scientist! I'm currently enrolled in the MSDS program at UT Austin. I've completed classes in Probability and Statistics, Data Visualization, Regression, Data Structures and Algorithms, Machine Learning, and Data Science for Health Discovery and Innovation. My extra curricular interests include pool (billiards), cooking, and martial arts.
 
 <!--
 **minasso/minasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
